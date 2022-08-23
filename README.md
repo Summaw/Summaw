@@ -8,7 +8,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umrange&show_icons=true&locale=en&layout=compact" alt="umrange" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umrange&show_icons=true&locale=en" alt="umrange" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umrange&" alt="umrange" /></p>
 
