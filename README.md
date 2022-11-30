@@ -6,7 +6,7 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umrange&show_icons=true&locale=en&layout=compact" alt="umrange" /></p>
+![Summaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Summaw&show_icons=true&theme=transparent)
 
 
 <h3 align="left">Languages and Tools:</h3>
