@@ -8,7 +8,7 @@
 
 ![Summaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Summaw&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Summaw&layout=compact)](https://github.com/Summaw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Summaw&layout=demo)](https://github.com/Summaw/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=Text-Captcha-Solver)](https://github.com/Summaw/github-readme-stats)
 
