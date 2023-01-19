@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/98126132/213332752-3eed3f6a-fffd-4435-b020-a7b89d320aa2.png)
+![image](https://user-images.githubusercontent.com/98126132/213332763-707629bc-1b71-4bfa-9528-6afe571196d6.png)
+
 
 <h1 align="center">Hi 👋, I'm Summer</h1>
 
