@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umrange&label=Profile%20views&color=0e75b6&style=flat" alt="umrange" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-![Quote of the day](https://github-readme-quotes.herokuapp.com/quote)
-
 ![Summaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Summaw&show_icons=true&theme=transparent)
 
 [![Summaw's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Summaw&layout=donut&theme=transparent)](https://github.com/Summaw/github-readme-stats)
