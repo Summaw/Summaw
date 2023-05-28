@@ -9,6 +9,7 @@
 <p align="left">
 </p>
 
+![Quote of the day](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 ![Summaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Summaw&show_icons=true&theme=transparent)
 
 [![Summaw's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Summaw&layout=donut&theme=transparent)](https://github.com/Summaw/github-readme-stats)
