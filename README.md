@@ -37,7 +37,6 @@ type Summaw struct {
     Role      string   // Independent software dev & builder
     Focus     []string // Go, web scraping, automation, SaaS tooling
     Stack     []string // Go, React, Vite, PostgreSQL, Linux
-    Building  string   // AutoScout — Amazon FBA/seller SaaS
     Loves     []string // Open-source Go tools, fast cars, racing sims
     Motto     string   // "Don't love sleep, lest you come to poverty."
 }
