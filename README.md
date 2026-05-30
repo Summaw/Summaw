@@ -10,7 +10,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Summaw">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Go+backend+developer;Web+scraping+%2B+anti-bot+evasion;Building+SaaS+%26+dev+tools;Reverse-engineering+web+APIs;Mustang+GT+%2B+turbo+%F0%9F%8F%8E%EF%B8%8F" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Go+backend+developer;Web+scraping+%2B+anti-bot+evasion;Building+SaaS+%26+dev+tools;Reverse-engineering+web+APIs;Open-source+Go+tooling" alt="typing"/>
 </a>
 
 <!-- Profile views + followers (FIXED: now points at Summaw) -->
@@ -37,15 +37,16 @@ type Summaw struct {
     Role      string   // Independent software dev & builder
     Focus     []string // Go, web scraping, automation, SaaS tooling
     Stack     []string // Go, React, Vite, PostgreSQL, Linux
-    Loves     []string // Open-source Go tools, fast cars, racing sims
+    Building  string   // SaaS tools & automation infrastructure
+    Loves     []string // Open-source Go tools, building, shipping
     Motto     string   // "Don't love sleep, lest you come to poverty."
 }
 ```
 
 - 🟢 &nbsp;Living in **Go** — building zero-dependency tooling people actually use
 - 🕸️ &nbsp;Deep in **web scraping, TLS fingerprinting & anti-bot evasion**
-- 🚀 &nbsp;Shipping **AutoScout**, an Amazon seller SaaS (SP-API, eligibility, sourcing)
-- 🏎️ &nbsp;Off the keyboard: **modified 2016 Mustang GT (turbo)**, racing sims & gaming
+- 🚀 &nbsp;Shipping **SaaS products & automation tooling** end to end
+- 🎮 &nbsp;Off the keyboard: racing sims & gaming
 
 <br/>
 
@@ -96,8 +97,8 @@ type Summaw struct {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summaw&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summaw&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="top langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summaw&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&cache_seconds=86400" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summaw&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&cache_seconds=86400" alt="top langs"/>
 
 <br/>
 
@@ -116,17 +117,17 @@ type Summaw struct {
 <div align="center">
 
 <a href="https://github.com/Summaw/aurora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=aurora&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="aurora"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=aurora&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&cache_seconds=86400" alt="aurora"/>
 </a>
 <a href="https://github.com/Summaw/GoPhoenix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=GoPhoenix&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="GoPhoenix"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=GoPhoenix&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&cache_seconds=86400" alt="GoPhoenix"/>
 </a>
 
 <a href="https://github.com/Summaw/TLSight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=TLSight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="TLSight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=TLSight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&cache_seconds=86400" alt="TLSight"/>
 </a>
 <a href="https://github.com/Summaw/Text-Captcha-Solver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=Text-Captcha-Solver&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9" alt="Text-Captcha-Solver"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Summaw&repo=Text-Captcha-Solver&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&cache_seconds=86400" alt="Text-Captcha-Solver"/>
 </a>
 
 </div>
@@ -160,7 +161,7 @@ type Summaw struct {
 <!-- Snake animation — requires the GitHub Action (see note below) -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Summaw/Summaw/output/snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Summaw/Summaw/output/snake.svg?v=2" alt="snake animation"/>
 
 </div>
 
