@@ -161,7 +161,7 @@ type Summaw struct {
 <!-- Snake animation — requires the GitHub Action (see note below) -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Summaw/Summaw/output/snake.svg?v=2" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Summaw/Summaw/output/snake.svg?v=3" alt="snake animation"/>
 
 </div>
 
